@@ -1,30 +1,48 @@
-# Chat Messenger with Log Facility
+<p align="center">
+  <img src="https://github.com/KartikkxCode/KartikkxCode/raw/main/chat_logo.png" width="200" alt="Chat Messenger Logo"/>
+</p>
 
-A simple Java-based client-server chat messenger that allows real-time communication between client(s) and server, with built-in logging to keep track of messages and events.
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 2.5em; background: linear-gradient(90deg, #ff6f61, #ffcc70); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  💬 Chat Messenger with Log Facility
+</h1>
 
----
-
-## ✨ Features
-
-- Real-time chat between client and server  
-- Supports multiple clients (if implemented)  
-- Logging of all messages, connections, disconnections, and errors  
-- Lightweight and platform-independent  
-- Easy to run from terminal or any IDE  
+<p align="center">
+  A Java-based client-server chat application with real-time messaging and built-in logging.
+</p>
 
 ---
 
-## 📁 Project Structure
+## 🚀 Features
 
-- **Server.java** → Handles incoming client connections and logs activity  
-- **Client.java** → Connects to the server, sends and receives messages  
-- **logs/** → Stores log files with timestamps for each event  
-- **README.md** → Project documentation  
+- 🔹 **Real-time chat** between clients and server  
+- 🔹 **Multi-client support** (optional)  
+- 🔹 **Logging system** for messages, connections, disconnections, and errors  
+- 🔹 **Lightweight & platform-independent**  
+- 🔹 **Easy to run** from terminal or IDE  
 
 ---
 
-## ⚙ Getting Started
+## 🏗️ Project Structure
+
+| File / Folder         | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| **Server.java**       | Handles client connections, broadcasting, and logs activity                |
+| **Client.java**       | Connects to the server, sends & receives messages                         |
+| **logs/**             | Stores log files with timestamps for messages and events                  |
+| **README.md**         | Project documentation                                                      |
+
+---
+
+## ⚙️ Getting Started
 
 ### Prerequisites
-- Java JDK 8 or later installed  
-- Terminal or preferred IDE (IntelliJ, Eclipse, VS Code, etc.)
+- Java JDK 8 or later  
+- Terminal or IDE (IntelliJ, Eclipse, VS Code, etc.)  
+
+### Steps to Run
+
+1. **Clone the repository**  
+
+```bash
+git clone https://github.com/KartikkxCode/KartikkxCode.git
+cd ChatMessenger
