@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/KartikkxCode/KartikkxCode/raw/main/chat_logo.png" width="200" alt="Chat Messenger Logo"/>
-</p>
+
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 2.5em; background: linear-gradient(90deg, #ff6f61, #ffcc70); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   💬 Chat Messenger with Log Facility
